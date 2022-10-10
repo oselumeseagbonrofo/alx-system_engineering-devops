@@ -1,3 +1,2 @@
 #!/bin/bash
-cat Hello, World | lpr > 0-hello_world
-ws -l 0-hello_world
+cat Hello, World 
