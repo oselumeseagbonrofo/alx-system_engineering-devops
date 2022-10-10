@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /0x02-shell_redirections/iacta
+head -n 3 input | tail -1
+wc -l /0x02-shell_redirections/iacta
