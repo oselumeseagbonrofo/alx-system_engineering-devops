@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep --ignore-case [[:alpha:]] /etc/ssh/sshd_config
+ls -l /etc/ssh/sshd_config | egrep [a-z] 
