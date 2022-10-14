@@ -1,2 +1,2 @@
 #!/bin/bash
-$(([10#]$BINARY))
+printf '/n'$(([10#]$BINARY))
